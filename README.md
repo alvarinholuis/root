@@ -1,5 +1,5 @@
 # Root
-> <b>Isso não é como o root real do linux</b>e usos do termux. Esta ferramenta também ajudará você a obter a aparência do Kali-Linux no seu termux com acesso root.<br><br>
+> <b>Isso não é como o root real do linux</b> e usos do termux. Esta ferramenta também ajudará você a obter a aparência do Kali-Linux no seu termux com acesso root.<br><br>
 
 <centre>
 <img src="https://github.com/adarshaddee/root/blob/main/images/Img2.jpg" alt="root termux" title="root termux" width="100%" />
@@ -18,8 +18,8 @@ Esta ferramenta também ajuda a acessar os privilégios reais de root no termux.
 # Instalação
 <pre>pkg update && pkg upgrade -y</pre>
 <pre>pkg install git -y</pre>
-<pre>git clone https://github.com/Alvax12/rootfalso</pre>
-<pre>cd rootfalso</pre>
+<pre>git clone https://github.com/Alvax12/root</pre>
+<pre>cd root</pre>
 <pre>chmod +x main</pre>
 <pre>./main</pre>
 
@@ -27,11 +27,11 @@ Esta ferramenta também ajuda a acessar os privilégios reais de root no termux.
 Podes usar <pre>fish</pre> o comando para deixar o termux mais atraente.<br><br>
 
 # Instalação de uma linha
-<pre>pkg  update && pkg  upgrade -y && pkg  install git -y && git clone https://github.com/adarshaddee/root.git</pre>
+<pre>pkg  update && pkg  upgrade -y && pkg  install git -y && git clone https://github.com/Alvax12/root</pre>
 
 # Desistalar
 Você pode desinstalar o root com os seguintes comandos mostrados aqui:
-<pre>cd rootfalso</pre>
+<pre>cd root</pre>
 <pre>chmod +x uninstall.sh</pre>
 <pre>./uninstall.sh</pre>
 
